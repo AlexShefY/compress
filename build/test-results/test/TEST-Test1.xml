@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Test1" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-26T20:40:17" hostname="alex-NMH-WCX9" time="0.037">
+  <properties/>
+  <testcase name="testMain()" classname="Test1" time="0.032"/>
+  <testcase name="testDecode()" classname="Test1" time="0.001"/>
+  <testcase name="testEncode()" classname="Test1" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
